@@ -15,6 +15,6 @@ The main purpose of this project is to develop a machine learning model that can
 The repository contains the following files and directories:
 
 - `data/`: This directory contains the dataset file used for training the model.
-- `notebook/`: This directory includes the Jupyter Notebook file (`predict_survivability.ipynb`) that contains the code for data exploration, model training, and evaluation.
+- `notebook/`: This directory includes the Jupyter Notebook file (`ipynb`) that contains the code for data exploration, model training, and evaluation.
 - `README.md`: The file you are currently reading, providing an overview of the project.
 
