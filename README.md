@@ -1,6 +1,6 @@
 # Titanic Passengers Survivability Prediction
 
-This repository contains a practice exercise for predicting Titanic passengers' survivability using a machine learning decision tree model.
+This repository contains a practice exercise given by Codebasics for predicting Titanic passengers' survivability using a machine learning decision tree model.
 
 ## Dataset
 
